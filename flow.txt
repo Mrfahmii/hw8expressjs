@@ -1,0 +1,8 @@
+FLOW HW
+
+1.Restore db pgAdmin
+2.Seeding
+3.Query
+4.Migrate
+5.Push Github
+
