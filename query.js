@@ -3,7 +3,7 @@ var pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'dvdrental',
-    password: 'sapiompong43796',
+    password: 'postgres',
     port: 5432,
 });
 
